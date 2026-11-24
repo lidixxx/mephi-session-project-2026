@@ -1,0 +1,5 @@
+ID     | Command line                                           | Date and time    | Action(s)      | Altered
+-------------------------------------------------------------------------------------------------------------
+     3 | install -y nginx libcap-ng-utils dnf-plugins-core acl  | 2026-11-24 23:31 | Install        |   23   
+     2 | upgrade -y                                             | 2026-11-24 23:28 | I, O, U        |  191 E<
+     1 |                                                        | 2026-11-24 23:12 | Install        |  555 >E
